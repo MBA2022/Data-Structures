@@ -45,7 +45,6 @@ Below is a list of data structures available in this repository:
 - **Binary Search Tree**
 - **Heap**
 - **Hash Table**
-- **Graph**
 
 Each data structure has its own Java class within the `src` directory. You can find example usage and tests for each data structure in the corresponding files.
 
