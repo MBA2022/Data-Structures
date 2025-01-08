@@ -8,7 +8,7 @@ Welcome to the Data Structures repository! This repository contains various data
 - [Getting Started](#getting-started)
 - [Data Structures](#data-structures)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](Data-Structures/License)
 
 ## Introduction
 
