@@ -79,9 +79,6 @@ Contributions are welcome! If you would like to contribute to this repository, p
 6. **Create a Pull Request:**
     Open a pull request from your forked repository to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
