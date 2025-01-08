@@ -38,7 +38,6 @@ To get started with using the data structures in this repository, follow these s
 
 Below is a list of data structures available in this repository:
 
-- **Array**
 - **Linked List**
 - **Stack**
 - **Queue**
